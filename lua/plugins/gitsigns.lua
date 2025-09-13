@@ -32,9 +32,6 @@ return {
         row = 0,
         col = 1,
       },
-      options = {
-        debug_mode = false,
-      },
     })
   end,
 }
